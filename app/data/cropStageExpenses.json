@@ -1,0 +1,60 @@
+{
+  "cropStageExpensesList": [
+    {
+      "id": "expense-1",
+      "name": "Semillas",
+      "background": "#FAA41B",
+      "categoryId": 1,
+      "stageIds": [1]
+    },
+    {
+      "id": "expense-2",
+      "name": "Mano de obra",
+      "background": "#97633F",
+      "categoryId": 2,
+      "stageIds": [1, 2, 4]
+    },
+    {
+      "id": "expense-3",
+      "name": "Herramientas",
+      "background": "#EFC48F",
+      "categoryId": 3,
+      "stageIds": [2, 3]
+    },
+    {
+      "id": "expense-4",
+      "name": "Abonos",
+      "background": "#827C7C",
+      "categoryId": 4,
+      "stageIds": [1, 2]
+    },
+    {
+      "id": "expense-5",
+      "name": "Jornal",
+      "background": "#827C7C",
+      "categoryId": 5,
+      "stageIds": [3]
+    },
+    {
+      "id": "expense-6",
+      "name": "Recolección del grano",
+      "background": "#644B49",
+      "categoryId": 6,
+      "stageIds": [3]
+    },
+    {
+      "id": "expense-7",
+      "name": "Costos de secado",
+      "background": "#FFB454",
+      "categoryId": 7,
+      "stageIds": [4]
+    },
+    {
+      "id": "expense-8",
+      "name": "Ventas",
+      "background": "#6CCD76",
+      "categoryId": 8,
+      "stageIds": [5]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "UnitSeeds": [
+    { "id": 1, "unitName": "Chapola" },
+    { "id": 2, "unitName": "Unidad" }
+  ],
+  "UnitWorkForce": [{ "id": 1, "unitName": "Jornal" }],
+  "UnitTools": [{ "id": 1, "unitName": "Unidad" }],
+  "UnitFertilizer": [
+    { "id": 1, "unitName": "Kilogramos" },
+    { "id": 2, "unitName": "Libras" },
+    { "id": 3, "unitName": "Bultos" },
+    { "id": 4, "unitName": "Gramos" }
+  ]
+}

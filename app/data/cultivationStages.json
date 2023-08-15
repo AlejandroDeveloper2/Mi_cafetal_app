@@ -1,0 +1,59 @@
+{
+  "cultivationStages": [
+    {
+      "id": 1,
+      "name": "Adaptación del terreno y siembra",
+      "background": "#32BA55",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/mi-cafetal-app-de74f.appspot.com/o/cultivationStagesIcons%2Ficon-cultivation-stage-1.png?alt=media&token=b3209269-497c-46f2-b1c4-ee2844bc94ed"
+    },
+    {
+      "id": 2,
+      "name": "Mantenimiento de cultivo",
+      "background": "#F0CBB4",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/mi-cafetal-app-de74f.appspot.com/o/cultivationStagesIcons%2Ficon-cultavation-stage-2.png?alt=media&token=0782efce-3638-4ff2-aa0f-d50db2b74bfe"
+    },
+    {
+      "id": 3,
+      "name": "Recolección del grano",
+      "background": "#8E644E",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/mi-cafetal-app-de74f.appspot.com/o/cultivationStagesIcons%2Ficon-cultivation-stage-3.png?alt=media&token=540ab26e-1bd6-49b5-ad5d-87e502a204a8"
+    },
+    {
+      "id": 4,
+      "name": "Secado",
+      "background": "#FFB454",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/mi-cafetal-app-de74f.appspot.com/o/cultivationStagesIcons%2Ficon-cultivation-stage-4.png?alt=media&token=7bc3ee6d-8272-4994-8313-0243ab22b0a5"
+    },
+    {
+      "id": 5,
+      "name": "Venta",
+      "background": "#13BF6D",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/mi-cafetal-app-de74f.appspot.com/o/cultivationStagesIcons%2Ficon-cultivation-stage-5.png?alt=media&token=4e16ec29-eb11-4153-83d8-5637b75231d2"
+    }
+  ],
+
+  "StagesOfCultivation": [
+    {
+      "id": 2,
+      "name": "Mantenimiento de cultivo"
+    },
+    {
+      "id": 1,
+      "name": "Adaptación del terreno y siembra"
+    }
+  ],
+
+  "PhaseReport": [
+    {
+      "id": "Adaptación del terreno y siembra",
+      "categoryName": "Adaptación del terreno y siembra"
+    },
+    {
+      "id": "Mantenimiento de cultivo",
+      "categoryName": "Mantenimiento de cultivo"
+    },
+    { "id": "Recolección del grano", "categoryName": "Recolección del grano" },
+    { "id": "Secado", "categoryName": "Secado" },
+    { "id": "Venta", "categoryName": "Venta" }
+  ]
+}

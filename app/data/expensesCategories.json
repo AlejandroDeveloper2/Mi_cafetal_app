@@ -1,0 +1,9 @@
+{
+  "ExpensesCategories": [
+    { "id": 0, "categoryName": "Todas las categorias" },
+    { "id": 1, "categoryName": "Semillas" },
+    { "id": 2, "categoryName": "Mano de obra" },
+    { "id": 3, "categoryName": "Herramientas" },
+    { "id": 4, "categoryName": "Abonos" }
+  ]
+}
